@@ -1,9 +1,9 @@
 # Einkaufsliste
 
-##eine einkaufsliste inkl. Lebenslauf und einer Klasse headererdatei Namens Blatt3Headerh
+## eine einkaufsliste inkl. Lebenslauf und einer Klasse headererdatei Namens Blatt3Headerh
 
 
-###Lebenslauf
+### Lebenslauf
 
   > Kindergarten
 
@@ -20,7 +20,7 @@
 
 das **muessen** wir einkaufen
 
-`#ifndef Blatt3Headerh
+` #ifndef Blatt3Headerh
 #define Blatt3Headerh
 
 class Arraylist
@@ -42,4 +42,4 @@ public:
 
 
 
-#machen sie das um einkaufen zu koennen
+# machen sie das um einkaufen zu koennen
