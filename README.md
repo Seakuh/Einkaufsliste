@@ -1,17 +1,17 @@
 # Einkaufsliste
 
-eine einkaufsliste inkl. Lebenslauf und einer Klasse headererdatei Namens Blatt3Headerh
+##eine einkaufsliste inkl. Lebenslauf und einer Klasse headererdatei Namens Blatt3Headerh
 
 
 ###Lebenslauf
 
-  >Kindergarten
+  > Kindergarten
 
-  >Schule
+  > Schule
  
-  >Ausbildung
+  > Ausbildung
 
-  >Hochschule
+  > Hochschule
 
 
 
