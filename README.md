@@ -13,7 +13,7 @@
 
   > Hochschule
 
-![alt Text]('https://github.com/Seakuh/Einkaufsliste/blob/master/seakuh.jpeg')
+![alt Text](https://github.com/Seakuh/Einkaufsliste/blob/master/seakuh.jpeg)
 
 
 
