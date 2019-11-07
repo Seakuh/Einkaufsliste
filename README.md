@@ -13,8 +13,7 @@
 
   > Hochschule
 
-![GitHub Logo]('seakuh.jpeg')
-Format: ![Alt Text](url)
+![alt Text]('https://github.com/Seakuh/Einkaufsliste/blob/master/seakuh.jpeg')
 
 
 
