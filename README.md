@@ -13,7 +13,7 @@
 
   > Hochschule
 
-![GitHub Logo]('WhatsApp Image 2019-11-03 at 20.59.03.jpeg')
+![GitHub Logo]('seakuh.jpeg')
 Format: ![Alt Text](url)
 
 
