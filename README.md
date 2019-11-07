@@ -20,7 +20,8 @@
 
 das **muessen** wir einkaufen
 
-` #ifndef Blatt3Headerh
+```cpp
+ #ifndef Blatt3Headerh
 #define Blatt3Headerh
 
 class Arraylist
@@ -37,8 +38,7 @@ public:
     ~Arraylist();
 };
 #endif
-`
-
+```
 
 
 
