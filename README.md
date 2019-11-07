@@ -1,17 +1,17 @@
 # Einkaufsliste
 
-eine einkaufsliste
+eine einkaufsliste inkl. Lebenslauf und einer Klasse headererdatei Namens Blatt3Headerh
 
 
 ###Lebenslauf
 
-  *Kindergarten
+  >Kindergarten
 
-  *Schule
+  >Schule
  
-  *Ausbildung
+  >Ausbildung
 
-  *Hochschule
+  >Hochschule
 
 
 
@@ -20,7 +20,7 @@ eine einkaufsliste
 
 das **muessen** wir einkaufen
 
-'#ifndef Blatt3Headerh
+`#ifndef Blatt3Headerh
 #define Blatt3Headerh
 
 class Arraylist
@@ -36,7 +36,9 @@ public:
     void set(int i, double number);
     ~Arraylist();
 };
-#endif'
+#endif
+`
+
 
 
 
